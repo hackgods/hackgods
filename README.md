@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Flutter and learning Node JS
+I'm currently working on Flutter and learning GO
 
 
 ## 🌐 Socials:
